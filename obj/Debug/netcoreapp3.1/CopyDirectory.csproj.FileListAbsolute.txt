@@ -1,0 +1,12 @@
+C:\Users\BukolaThompson\Documents\projects\angular\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.exe
+C:\Users\BukolaThompson\Documents\projects\angular\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.deps.json
+C:\Users\BukolaThompson\Documents\projects\angular\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.json
+C:\Users\BukolaThompson\Documents\projects\angular\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.dev.json
+C:\Users\BukolaThompson\Documents\projects\angular\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Users\BukolaThompson\Documents\projects\angular\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Users\BukolaThompson\Documents\projects\angular\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csprojAssemblyReference.cache
+C:\Users\BukolaThompson\Documents\projects\angular\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\BukolaThompson\Documents\projects\angular\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfo.cs
+C:\Users\BukolaThompson\Documents\projects\angular\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Users\BukolaThompson\Documents\projects\angular\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Users\BukolaThompson\Documents\projects\angular\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.genruntimeconfig.cache
